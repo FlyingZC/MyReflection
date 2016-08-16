@@ -1,0 +1,3 @@
+160808
+反射.在程序中访问已经加载到JVM中的Java对象的描述.实现访问,检测,修改描述Java对象本身信息的功能
+java.lang.reflection
